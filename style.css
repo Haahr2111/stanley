@@ -27,7 +27,6 @@ header {
     grid-template-rows: 25% 25% 25% 25%;
     justify-items: center;
     background-color: crimson;
-    height: 20vh;
     top:0px;
 }
 
