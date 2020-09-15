@@ -1,9 +1,8 @@
 const filesToCache = [
-    '/',
-    '/style.css',
-    '/img/stanley.jpg',
-    '/index.html',
-    '/javascript.js'
+    'style.css',
+    'img/stanley.jpg',
+    'index.html',
+    'javascript.js'
     
   ];
   
