@@ -1,9 +1,9 @@
 const filesToCache = [
     '/',
-    './style.css',
+    '/style.css',
     '/img/stanley.jpg',
-    './index.html',
-    './javascript.js'
+    '/index.html',
+    '/javascript.js'
     
   ];
   
@@ -39,7 +39,7 @@ const filesToCache = [
               return response;
             });
           });
-          
+
       }).catch(error => {
   
         // TODO 6 - Respond with custom offline page
